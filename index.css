@@ -1,0 +1,78 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.div{
+    height: 100vh;
+    width: 100%;
+    background:#dfe3ee;
+}
+.header{
+    height: 75px;
+    width: 100%;
+    background:#3b5998;
+}
+.header img{
+    margin-left: 27%;
+    margin-top: 5%;
+}
+.mainlogo img{
+    height: 130px;
+    width: 125px;
+    margin-left: 29%;
+    margin-top: 11%;
+}
+.mainlogo p{
+    font-size: 115%;
+    margin-left: 40px;
+    color: rgb(145, 148, 151);
+    font-family: 'Roboto', sans-serif;
+}
+.box{
+    position: absolute;
+    top: 50%;
+    left: 7%;
+    height: 22px;
+    /* background: #fff; */
+    text-align: center;
+    display: inline-block;
+}
+.text-mail{
+    width: 340px;
+    height: 30px;
+    display: block;
+    margin-left: -10px;
+    border: 1px solid #dddfe2;
+
+}
+.text-btn1{
+    width: 340px;
+    height: 30px;
+    border: 0;
+    background: #3b5998;
+    color:#fff;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px ;
+    opacity: 0.9;
+    margin-left: -21px;
+    border-radius: 7px;
+}
+.text-btn2{
+    width: 165px;
+    height: 30px;
+    border: 0;
+    background: #2e2be4;
+    color:#fff;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 56px ;
+    opacity: 0.9;
+    margin-left: -17px;
+    border-radius: 4px;
+    padding: 8px;
+}
+.box-links a{
+    text-decoration: none;
+}
